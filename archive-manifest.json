@@ -1,0 +1,129 @@
+{
+  "filename": "AutoDL_all_projects_20261030.zip",
+  "size": 21082554276,
+  "mtime_ns": 1793363898267635600,
+  "chunk_size": 1073741824,
+  "sha256": "4aeb1fd66153bc2a517a6a0440fb8bd3e1b6b4a52a4ef61d25422c59595efa50",
+  "parts": [
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part001",
+      "offset": 0,
+      "size": 1073741824,
+      "sha256": "4bcfb4fc3f2d3e125f9d5538644be583bd0784fc57a456fc258083e1d9589747"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part002",
+      "offset": 1073741824,
+      "size": 1073741824,
+      "sha256": "1006c998a39cdebc8addc75b8a6f212e5b8a21f8f45b19c662802c7a2668f905"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part003",
+      "offset": 2147483648,
+      "size": 1073741824,
+      "sha256": "83b92a9f4e4ae06f67e97454fa09cc70bc55fe73653b0135ad62adc243e7d3b4"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part004",
+      "offset": 3221225472,
+      "size": 1073741824,
+      "sha256": "aabe7e31c0f8ff98bf233ca824e6a9ab0eb79d21e33f05f66bedcf83c349062e"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part005",
+      "offset": 4294967296,
+      "size": 1073741824,
+      "sha256": "e4a9f810a0aa6da274fdcd2b50b329040aee4cd0004b5bcc39c61a4db8629daa"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part006",
+      "offset": 5368709120,
+      "size": 1073741824,
+      "sha256": "95987b083f2b6475b147c590f9ffdf18e8f4dacb2c676a255ceb8e33d0460620"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part007",
+      "offset": 6442450944,
+      "size": 1073741824,
+      "sha256": "bef1720e369696a5747201ed2ced7c0e8df03baf601c8d83ea2aa89192cafaf1"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part008",
+      "offset": 7516192768,
+      "size": 1073741824,
+      "sha256": "8d42974f7b988ba72e9b88a37bfac8bb43dd6f263c5dafc77d7a14046d976508"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part009",
+      "offset": 8589934592,
+      "size": 1073741824,
+      "sha256": "e65f5197091330fb8fe9eca1633695d46ec67c4a7da7f5fe917d52d99dd10f67"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part010",
+      "offset": 9663676416,
+      "size": 1073741824,
+      "sha256": "c6328ff1acd834ac75963258159452e31d4abc143b1b3a33c48986ba93a0e6ed"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part011",
+      "offset": 10737418240,
+      "size": 1073741824,
+      "sha256": "0c02acb02c9ccf4738f1418297623f461da4d956b0cea1ffcb80995b109369b1"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part012",
+      "offset": 11811160064,
+      "size": 1073741824,
+      "sha256": "7d7a48cf671581607e4ce63f510582bb90d4fc833244330b131f6eba80b75f6b"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part013",
+      "offset": 12884901888,
+      "size": 1073741824,
+      "sha256": "67dabe7a0e0e4d83d5220b25043f9922c3b56a3d910332d239537003cbd49b93"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part014",
+      "offset": 13958643712,
+      "size": 1073741824,
+      "sha256": "78f1efa00336e2ede3a189c75ed661116970d95ac067816fc91e682b96fb32c7"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part015",
+      "offset": 15032385536,
+      "size": 1073741824,
+      "sha256": "5804f18b5f36f1525d02ebe75f07828a4e6f9187ba643e0a93e26c6c16889772"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part016",
+      "offset": 16106127360,
+      "size": 1073741824,
+      "sha256": "40b3d2aefd6f075fddf44e379ae6bff549eb268bff152d5d288ad6c2e8f88c35"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part017",
+      "offset": 17179869184,
+      "size": 1073741824,
+      "sha256": "dff304f9c849ae2fa6880b8f700d5699b03689e094624471effa661c98bb2cc8"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part018",
+      "offset": 18253611008,
+      "size": 1073741824,
+      "sha256": "1ac85da17eb6d5c3422b7f621ef565f2d4428a4b4cb808c2c5e7e907f08c29b6"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part019",
+      "offset": 19327352832,
+      "size": 1073741824,
+      "sha256": "d24004ed99801aff78dbe88da0cba1b3a06faec82543156a61067eaa69033422"
+    },
+    {
+      "name": "AutoDL_all_projects_20261030.zip.part020",
+      "offset": 20401094656,
+      "size": 681459620,
+      "sha256": "badf700b6255933256a70ba43d92c9ab07f977d2300b57950a5e6f377368afce"
+    }
+  ]
+}
